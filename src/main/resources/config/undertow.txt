@@ -1,8 +1,8 @@
 undertow.devMode=true
 # 端口
-undertow.port=8080
+undertow.port=8989
 # host
-undertow.host=0.0.0.0
+undertow.host=127.0.0.1
 # 开启 gzip 压缩
 undertow.gzip.enable=true
 # 触发压缩的最小内容长度
