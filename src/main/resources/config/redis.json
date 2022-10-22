@@ -3,7 +3,7 @@
   "remarks":"1为单机版，2为cluster集群，3为sentinel集群",
   "cacheName":"master",
   "host":[
-    "127.0.0.1:8989"
+    "127.0.0.1:8181"
   ],
   "password":"123456",
   "database":0

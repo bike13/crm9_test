@@ -1,6 +1,6 @@
 undertow.devMode=true
 # 端口
-undertow.port=8989
+undertow.port=8181
 # host
 undertow.host=127.0.0.1
 # 开启 gzip 压缩
